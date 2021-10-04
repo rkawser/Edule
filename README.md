@@ -2,7 +2,7 @@
 
 ## Live site link 
 
-Live site Link[ Edule-e-Learning:](https://fervent-hodgkin-fa1ba4.netlify.app/).
+Live site Link[ Edule-e-Learning:](https://blissful-mestorf-e4241c.netlify.app/).
 
 ## Available Scripts
 * React.js 
