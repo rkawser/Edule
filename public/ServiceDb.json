@@ -1,0 +1,69 @@
+[
+    {
+      "name": "jason wailliams",
+      "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-01.jpg",
+      "image": "https://template.hasthemes.com/edule/eduLe/assets/images/author/author-02.jpg",
+      "course": "Data Science and Machine Learning with Python - Hands On!",
+      "time": "08 hr 15 mins",
+      "lecture": "29 Lectures",
+      "price": "$385.00",
+      "fidback":"50% Complete",
+      "rating": 4.9
+    },
+    {
+      "name": "Rose Simmons",
+      "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-03.jpg",
+      "image": "https://template.hasthemes.com/edule/eduLe/assets/images/author/author-03.jpg",
+      "course": "Culture & Leadership: Strategies for a Successful Business",
+      "time": "08 hr 15 mins",
+      "lecture": "29 Lectures",
+      "price": "$285.00",
+      "fidback":"80% Complete",
+      "rating": 4.9
+    },
+    {
+      "name": "Pamela Foster",
+      "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-02.jpg",
+      "image": "http://template.hasthemes.com/edule/eduLe/assets/images/author/author-01.jpg",
+      "course": "Create Amazing Color Schemes for Your UX Design Projects",
+      "time": "08 hr 15 mins",
+      "lecture": "29 Lectures",
+      "price": "$420.00",
+      "fidback":"75% Complete",
+      "rating": 4.9
+    },
+    {
+      "name": "Jason Williams",
+      "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-05.jpg",
+      "image": "http://template.hasthemes.com/edule/eduLe/assets/images/author/author-05.jpg",
+      "course": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+      "time": "08 hr 15 mins",
+      "lecture": "29 Lectures",
+      "price": "$136.00",
+      "fidback":"40% Complete",
+      "rating": 4.9
+    },
+    {
+        "name": "Jeri",
+        "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-04.jpg",
+        "image": "http://template.hasthemes.com/edule/eduLe/assets/images/author/author-04.jpg",
+        "course": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+        "time": "08 hr 15 mins",
+        "lecture": "29 Lectures",
+        "price": "$136.00",
+        "fidback":"60% Complete",
+        "rating": 4.9
+      },
+      {
+        "name": "Rose Simmons",
+        "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-06.jpg",
+        "image": "http://template.hasthemes.com/edule/eduLe/assets/images/author/author-06.jpg",
+        "course": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+        "time": "08 hr 15 mins",
+        "lecture": "29 Lectures",
+        "price": "$136.00",
+        "fidback":"70% Complete",
+        "rating": 4.9
+      }
+
+  ]

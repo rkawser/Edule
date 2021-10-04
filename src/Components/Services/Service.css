@@ -1,0 +1,7 @@
+.service-banner{
+    display: flex;
+    align-items: center;
+}
+.banner-color{
+background-color:#e7f8ee;
+}

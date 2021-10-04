@@ -1,0 +1,12 @@
+.slider{
+   text-align: justify;
+}
+.top-bar{
+    display: flex;
+    align-items: center;
+    background-color:#eefbf3;
+
+}
+.bg-slider{
+    background-color: #eefbf3;
+}

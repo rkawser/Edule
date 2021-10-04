@@ -1,0 +1,15 @@
+.contact-banner{
+    display: flex;
+    align-items: center;
+}
+.contact-color{
+    background-color: #e7f8ee;
+}
+
+.contact-box{
+    display: flex;
+    align-items: center;
+}
+.contact-address{
+    background-color: #e7f8ee;
+}

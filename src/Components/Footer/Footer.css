@@ -1,0 +1,14 @@
+.part-one{
+    display: flex;
+}
+.top-part{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.main-part{
+    background-color: rgb(185, 185, 130);
+   padding: 20px;
+   color: white;
+}
+

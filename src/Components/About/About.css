@@ -1,0 +1,17 @@
+.about-banner{
+    display: flex;
+    align-items: center;
+}
+.banner-color{
+    background-color:#E7F8ee ;
+}
+
+.main-about{
+    display: flex;
+    align-items: center;
+}
+
+.about-text{
+    text-align: justify;
+    
+}
