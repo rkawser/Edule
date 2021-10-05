@@ -16,8 +16,8 @@ const Contact = () => {
          <Row className='contact-banner' >
        <Col md={6}>
        <div>
-           <h5>Home//Contact Us</h5>
-           <h1>Contact Us</h1>
+           <h5>Home//<span className='text-success'>Contact Us </span></h5>
+           <h1>Contact  <span className='text-success'>Us</span></h1>
        </div>
        </Col>
 
@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>              
              </Col>
              <Col md={6}> 
-             <h2>Get in Touch With Us</h2>
+             <h2>Get in Touch  <span className='text-success'>With Us</span></h2>
                <div>
                <Form>
   <Row className="mb-3">

@@ -16,8 +16,8 @@ return (
        <Row className='service-banner'>
       <Col md={6}>
         <div>
-        <h4>Course// Service </h4>
-        <h1>My Courses</h1>
+        <h4>Course// <span className='text-success'>Service</span></h4>
+        <h1>My  <span className='text-success'>Courses</span></h1>
         </div>      
     </Col>
     <Col md={6}>
@@ -30,7 +30,7 @@ return (
           
    </div>
    <div className='py-5'>
-     <h2>Edule Course Service</h2>
+     <h2>Edule Course <span className='text-success'>Service</span></h2>
    </div>
    <Row xs={1} md={3} className="g-4 m-5">
     {

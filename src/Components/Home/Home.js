@@ -34,7 +34,7 @@ const Home = () => {
     </Container>
        </div>
        <div>
-           <h1 className='mt-5'>Our Service</h1>
+           <h1 className='mt-5'>Our <span className='text-success'>Service</span></h1>
        </div>
        <Row xs={1} md={3} className="g-4 m-5">
     {

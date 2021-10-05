@@ -1,5 +1,8 @@
 import React from 'react';
 import'./Footer.css'
+import { BsFacebook,BsInstagram } from "react-icons/bs";
+import { FiTwitter } from "react-icons/fi";
+
 const Footer = () => {
     return (
         <div className='main-part mt-5'>
@@ -12,7 +15,7 @@ const Footer = () => {
                  <h6>*Security</h6>
              </div>
              <div className='part-two'>
-              <h6>© 2021 EDULE Made with  by Kawser</h6>
+              <h6>© 2021 EDULE Made with  by Kawser  <BsFacebook/> <FiTwitter className='bg-light text-dark'/> <BsInstagram/> </h6>
              </div>
          </div>
             </div>

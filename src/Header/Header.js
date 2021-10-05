@@ -5,10 +5,10 @@ import { NavLink } from 'react-router-dom';
 import'./Header.css'
 const Header = () => {
     return (
-        <Navbar bg="secondary" expand="lg">
+        <Navbar className='header-design' expand="lg">
         <Container fluid>
           <Navbar.Brand href="#">
-              <img src="./image/logo.webp" className='text-light bg-info p-2 rounded' alt="" />
+              <img src="./image/logo.webp" className='text-light  p-2 rounded' alt="" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
@@ -17,10 +17,10 @@ const Header = () => {
               style={{ maxHeight: '100px'}}
               navbarScroll
             >
-              <NavLink to='/home' className='text-light nav'>Home</NavLink>
-              <NavLink to='/service' className='text-light nav'>Service</NavLink>
-              <NavLink to="/about"className='text-light nav'>About</NavLink>
-              <NavLink to='/contact' className='text-light nav'>Contact</NavLink>
+              <NavLink to='/home' className='text-dark fw-bold nav'>Home</NavLink>
+              <NavLink to='/service' className='text-dark fw-bold nav'>Service</NavLink>
+              <NavLink to="/about"className='text-dark nav fw-bold'>About</NavLink>
+              <NavLink to='/contact' className='text-dark nav fw-bold'>Contact</NavLink>
 
             </Nav>
             <Form className="d-flex">
